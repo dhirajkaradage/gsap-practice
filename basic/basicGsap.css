@@ -17,8 +17,3 @@ ul {
   border-bottom: 1px solid red;
 }
 
-.nav-item {
-  font-size: 16px;
-  color: #4d578b;
-  transition: all 0.3s ease;
-}
